@@ -1,13 +1,13 @@
 # Name of the Minigame
-game-name: Template
-game-description: Description
-command-name: temp
+game-name: SurvivalBrawl
+game-description: A minigame where players will be thrown into a survival world, then fight to the death!
+command-name: survivalbrawl
 command-aliases:
-  - arena
+  - sb
 
 countdown: 30
 required-players: 2
-max-players: 10
+max-players: 8
 lobby-spawn:
   world: world
   x: 0
