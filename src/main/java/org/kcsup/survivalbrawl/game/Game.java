@@ -1,6 +1,6 @@
-package org.kcsup.minigamecore.game;
+package org.kcsup.survivalbrawl.game;
 
-import org.kcsup.minigamecore.arena.Arena;
+import org.kcsup.survivalbrawl.arena.Arena;
 
 public class Game {
 

@@ -1,4 +1,4 @@
-package org.kcsup.minigamecore.commands;
+package org.kcsup.survivalbrawl.commands;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.CommandExecutor;

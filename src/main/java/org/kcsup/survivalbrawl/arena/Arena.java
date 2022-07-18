@@ -1,14 +1,14 @@
-package org.kcsup.minigamecore.arena;
+package org.kcsup.survivalbrawl.arena;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.Sound;
 import org.bukkit.entity.Player;
-import org.kcsup.minigamecore.Main;
-import org.kcsup.minigamecore.arena.sign.ArenaSign;
-import org.kcsup.minigamecore.game.Countdown;
-import org.kcsup.minigamecore.game.Game;
-import org.kcsup.minigamecore.game.GameState;
+import org.kcsup.survivalbrawl.Main;
+import org.kcsup.survivalbrawl.arena.sign.ArenaSign;
+import org.kcsup.survivalbrawl.game.Countdown;
+import org.kcsup.survivalbrawl.game.Game;
+import org.kcsup.survivalbrawl.game.GameState;
 
 import java.util.ArrayList;
 import java.util.List;

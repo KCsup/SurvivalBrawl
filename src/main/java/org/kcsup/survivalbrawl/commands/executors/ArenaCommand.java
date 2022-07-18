@@ -1,4 +1,4 @@
-package org.kcsup.minigamecore.commands.executors;
+package org.kcsup.survivalbrawl.commands.executors;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
@@ -6,9 +6,9 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
-import org.kcsup.minigamecore.Main;
-import org.kcsup.minigamecore.arena.Arena;
-import org.kcsup.minigamecore.game.GameState;
+import org.kcsup.survivalbrawl.Main;
+import org.kcsup.survivalbrawl.arena.Arena;
+import org.kcsup.survivalbrawl.game.GameState;
 
 public class ArenaCommand implements CommandExecutor {
     private Main main;

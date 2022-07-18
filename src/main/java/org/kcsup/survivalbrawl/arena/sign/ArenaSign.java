@@ -1,10 +1,10 @@
-package org.kcsup.minigamecore.arena.sign;
+package org.kcsup.survivalbrawl.arena.sign;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.block.Sign;
-import org.kcsup.minigamecore.arena.Arena;
-import org.kcsup.minigamecore.util.Util;
+import org.kcsup.survivalbrawl.arena.Arena;
+import org.kcsup.survivalbrawl.util.Util;
 
 public class ArenaSign {
 

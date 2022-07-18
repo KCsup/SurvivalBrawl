@@ -1,13 +1,13 @@
-package org.kcsup.minigamecore;
+package org.kcsup.survivalbrawl;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.kcsup.minigamecore.arena.Arena;
-import org.kcsup.minigamecore.arena.ArenaManager;
-import org.kcsup.minigamecore.arena.sign.SignManager;
-import org.kcsup.minigamecore.commands.CustomCommand;
-import org.kcsup.minigamecore.commands.executors.ArenaCommand;
-import org.kcsup.minigamecore.game.GameListener;
+import org.kcsup.survivalbrawl.arena.Arena;
+import org.kcsup.survivalbrawl.arena.ArenaManager;
+import org.kcsup.survivalbrawl.arena.sign.SignManager;
+import org.kcsup.survivalbrawl.commands.CustomCommand;
+import org.kcsup.survivalbrawl.commands.executors.ArenaCommand;
+import org.kcsup.survivalbrawl.game.GameListener;
 
 public final class Main extends JavaPlugin {
     private ArenaManager arenaManager;

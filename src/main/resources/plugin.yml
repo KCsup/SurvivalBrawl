@@ -1,5 +1,5 @@
-name: MinecraftMinigameCore
+name: SurvivalBrawl
 version: '${project.version}'
-main: org.kcsup.minigamecore.Main
+main: org.kcsup.survivalbrawl.Main
 api-version: 1.8.8
-description: The core plugin for mingame plugins.
+description: A minigame where players will be thrown into a survival world, then fight to the death!

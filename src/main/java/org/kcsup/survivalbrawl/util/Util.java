@@ -1,4 +1,4 @@
-package org.kcsup.minigamecore.util;
+package org.kcsup.survivalbrawl.util;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;

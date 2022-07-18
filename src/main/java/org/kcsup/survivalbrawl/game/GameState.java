@@ -1,4 +1,4 @@
-package org.kcsup.minigamecore.game;
+package org.kcsup.survivalbrawl.game;
 
 public enum GameState {
     RECRUITING,

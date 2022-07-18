@@ -1,8 +1,8 @@
-package org.kcsup.minigamecore.game;
+package org.kcsup.survivalbrawl.game;
 
 import org.bukkit.ChatColor;
 import org.bukkit.scheduler.BukkitRunnable;
-import org.kcsup.minigamecore.arena.Arena;
+import org.kcsup.survivalbrawl.arena.Arena;
 
 public class Countdown extends BukkitRunnable {
     private Arena arena;

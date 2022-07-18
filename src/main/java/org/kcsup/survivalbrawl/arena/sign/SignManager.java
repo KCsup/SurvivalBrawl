@@ -1,4 +1,4 @@
-package org.kcsup.minigamecore.arena.sign;
+package org.kcsup.survivalbrawl.arena.sign;
 
 import org.bukkit.Location;
 import org.bukkit.Material;
@@ -10,9 +10,9 @@ import org.bukkit.inventory.meta.ItemMeta;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.kcsup.minigamecore.Main;
-import org.kcsup.minigamecore.arena.Arena;
-import org.kcsup.minigamecore.util.Util;
+import org.kcsup.survivalbrawl.Main;
+import org.kcsup.survivalbrawl.arena.Arena;
+import org.kcsup.survivalbrawl.util.Util;
 
 import java.io.File;
 import java.io.IOException;
